@@ -34,5 +34,6 @@ installExtension waderyan.gitblame
 installExtension emilast.LogFileHighlighter
 installExtension Tyriar.sort-lines
 installExtension vscode-multiclip
+installExtension prettier-vscode
 
 uninstallExtension robertohuertasm.vscode-icons
